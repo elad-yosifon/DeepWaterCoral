@@ -9,20 +9,20 @@ dark, easy on the eyes, increases focus on important parts and vise versa.
 
 In time it was finely grained into a polyglot color scheme.
 
-![PHP](https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/PHP.png)
+![main](https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/PHP.png)
 
 Currently it fully supports:
 
-- [PHP](../screenshots/PHP.png)
-- [Java](../screenshots/Java.png)
-- [JavaScript](../screenshots/JS.png)
-- [HTML/XML](../screenshots/HTML.png)
-- [CSS](../screenshots/CSS.png)
-- [SQL](../screenshots/SQL.png)
-- [Bash](../screenshots/Bash.png)
-- [Lua](../screenshots/lua.png)
-- [Python](../screenshots/Python.png)
-- [ini](../screenshots/ini.png)
+- [PHP](../master/screenshots/PHP.png)
+- [Java](../master/screenshots/Java.png)
+- [JavaScript](../master/screenshots/JS.png)
+- [HTML/XML](../master/screenshots/HTML.png)
+- [CSS](../master/screenshots/CSS.png)
+- [SQL](../master/screenshots/SQL.png)
+- [Bash](../master/screenshots/Bash.png)
+- [Lua](../master/screenshots/lua.png)
+- [Python](../master/screenshots/Python.png)
+- [ini](../master/screenshots/ini.png)
 
 
 Installation
