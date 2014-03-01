@@ -13,16 +13,16 @@ In time it was finely grained into a polyglot color scheme.
 
 Currently it fully supports:
 
-- PHP  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/PHP.png
-- Java  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Java.png
-- JavaScript  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/JS.png
-- HTML/XML  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/HMTL.png
-- CSS  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/CSS.png
-- SQL  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/SQL.png
-- Bash  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Bash.png
-- Lua  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/lua.png
-- Python  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Python.png
-- ini  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/ini.png
+- [PHP](../screenshots/PHP.png)
+- [Java](../screenshots/Java.png)
+- [JavaScript](../screenshots/JS.png)
+- [HTML/XML](../screenshots/HTML.png)
+- [CSS](../screenshots/CSS.png)
+- [SQL](../screenshots/SQL.png)
+- [Bash](../screenshots/Bash.png)
+- [Lua](../screenshots/lua.png)
+- [Python](../screenshots/Python.png)
+- [ini](../screenshots/ini.png)
 
 
 Installation
