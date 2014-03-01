@@ -9,21 +9,20 @@ dark, easy on the eyes, increases focus on important parts and vise versa.
 
 In time it was finely grained into a polyglot color scheme.
 
+![PHP](https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/PHP.png)
+
 Currently it fully supports:
 
-- Java
-- PHP
-- Javascript
-- HTML/XML
-- CSS
-- SQL
-- Bash
-- Lua
-- Python
-- Regex
-- ini
-- properties
-- git statuses
+- Java - screenshot: https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Java.png
+- PHP - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/PHP.png
+- JavaScript - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/JS.png
+- HTML/XML - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/HMTL.png
+- CSS - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/CSS.png
+- SQL - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/SQL.png
+- Bash - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Bash.png
+- Lua - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/lua.png
+- Python - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Python.png
+- ini - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/ini.png
 
 
 Installation
