@@ -13,16 +13,16 @@ In time it was finely grained into a polyglot color scheme.
 
 Currently it fully supports:
 
-- Java - screenshot: https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Java.png
-- PHP - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/PHP.png
-- JavaScript - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/JS.png
-- HTML/XML - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/HMTL.png
-- CSS - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/CSS.png
-- SQL - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/SQL.png
-- Bash - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Bash.png
-- Lua - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/lua.png
-- Python - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Python.png
-- ini - screenshot:  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/ini.png
+- PHP  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/PHP.png
+- Java  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Java.png
+- JavaScript  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/JS.png
+- HTML/XML  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/HMTL.png
+- CSS  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/CSS.png
+- SQL  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/SQL.png
+- Bash  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Bash.png
+- Lua  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/lua.png
+- Python  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/Python.png
+- ini  https://raw.github.com/elad-yosifon/DeepWaterCoral/master/screenshots/ini.png
 
 
 Installation
