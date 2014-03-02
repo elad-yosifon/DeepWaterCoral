@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="DeepWaterCoral" version="124" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="9933" />
     <option name="CARET_COLOR" value="c1cbd2" />
