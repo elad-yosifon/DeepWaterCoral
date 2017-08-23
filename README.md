@@ -27,6 +27,5 @@ Currently it fully supports:
 
 Installation
 ------------
-Just download `colors.jar` file, then Run your IDE and import colorscheme settings from this file (`File` &rarr; `Import Settings...`)
-
+Just download `DeepWaterCoral.icls` file, then Run your IDE and import colorscheme settings from this file (`Settings` &rarr; `Editor` &rarr; `Color Scheme...` &rarr; `Import Scheme (from .icls) ...`)
 Feedback appreciated.
