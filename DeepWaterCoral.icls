@@ -1,10 +1,10 @@
 <scheme name="DeepWaterCoral" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-01-05T19:51:54</property>
+    <property name="created">2022-05-14T22:02:28</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2022-01-05T19:51:58</property>
+    <property name="ideVersion">2022.1.0.0</property>
+    <property name="modified">2022-05-14T22:02:31</property>
     <property name="originalScheme">DeepWaterCoral</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -753,6 +753,11 @@
     </option>
     <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="3cf1d6" />
+      </value>
+    </option>
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="729fcf" />
